@@ -1,0 +1,5 @@
+A= int(input(" ingresa un numero " ))
+B= int(input(" ingeresa otro numero "))
+print( " suman:" , A + B)
+D= int(input(" ingresa otro numero "))
+print(" multiplicacion de la suma por el ultimo numero:" , (A + B) * D )
